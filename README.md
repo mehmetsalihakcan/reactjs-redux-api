@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Screenshot 2019-11-08 22:51:45](https://user-images.githubusercontent.com/9059441/68506401-9fe3e600-027a-11ea-9367-0491688e7da5.png)
+
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
